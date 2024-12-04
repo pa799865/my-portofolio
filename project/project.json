@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Website Portofolio",
+        "tech": "HTML, CSS, & JavaScript",
+        "image": "./assets/img/project/web portofolio.png",
+        "desc":"Website portofolio sederhana dengan menggunakan HTML, CSS, dan Javascript.",
+        "links": {
+            "demo": "#",
+            "code": "https://github.com/Septiandwica/Survey-Form"
+        }
+    },
+    {
+        "title": "Web Biografi Gajah Mada",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/web biografi gajah mada.png",
+        "desc":"Ini Tugas Project Sejarah Saya.",
+        "links": {
+            "demo": "https://pa799865.github.io/web-sejarah/",
+            "code": "https://github.com/pa799865/web-sejarah"
+        }
+    }
+]

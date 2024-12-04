@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mempelajari dasar web programming",
+        "by": "Dicoding Academy",
+        "image": "./certification/web-basic.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/JLX142E8JX72"
+        }
+    }, {
+        "name": "Mempelajari dasar javascript programming",
+        "by": "Dicoding Academy",
+        "image": "./certification/js-basic.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/MRZMYWJ70ZYQ"
+        }
+    }
+    
+]
