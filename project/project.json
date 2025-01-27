@@ -25,8 +25,8 @@
         "image": "./assets/img/project/web bengkel.png",
         "desc":"Ini Adalah Projek E-commerce Sederhana Saya.",
         "links": {
-            "demo": "https://github.com/pa799865/e-commerce-web-bengkel",
-            "code": "https://pa799865.github.io/e-commerce-web-bengkel/"
+            "demo": "https://pa799865.github.io/e-commerce-web-bengkel/",
+            "code": "https://github.com/pa799865/e-commerce-web-bengkel"
         }
     }
 ]
