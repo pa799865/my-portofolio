@@ -18,5 +18,15 @@
             "demo": "https://pa799865.github.io/web-sejarah/",
             "code": "https://github.com/pa799865/web-sejarah"
         }
+    },
+    {
+        "title": "Web E-commerce Ngabers Shop",
+        "tech": "HTML, CSS, JS, & Alpine.js",
+        "image": "./assets/img/project/web bengkel.png",
+        "desc":"Ini Adalah Projek E-commerce Sederhana Saya.",
+        "links": {
+            "demo": "https://github.com/pa799865/e-commerce-web-bengkel",
+            "code": "https://pa799865.github.io/e-commerce-web-bengkel/"
+        }
     }
 ]
