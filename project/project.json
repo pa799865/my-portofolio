@@ -28,5 +28,15 @@
             "demo": "https://pa799865.github.io/e-commerce-web-bengkel/",
             "code": "https://github.com/pa799865/e-commerce-web-bengkel"
         }
+    },
+    {
+        "title": "Web Company Profile Teman Coding Versi 2",
+        "tech": "HTML, CSS, JS, & Materilize CSS",
+        "image": "./assets/img/project/Web Company Profile Teman Coding V2.png",
+        "desc":"Ini Adalah Projek Company Profile Sederhana Saya.",
+        "links": {
+            "demo": "https://pa799865.github.io/web-company-profile-tc/",
+            "code": "https://github.com/pa799865/web-company-profile-tc"
+        }
     }
 ]
