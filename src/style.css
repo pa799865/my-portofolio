@@ -488,6 +488,9 @@ form .btn{
     margin-left: 0px;
     width: 80%;
   }
+  .project .container .cards .desc p{
+    padding-top : 20px;
+  }
 
 }
 

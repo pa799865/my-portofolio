@@ -1,6 +1,6 @@
 [
     {
-        "title": "Website Portofolio",
+        "title": "Website Portofolio Putra Arya Setiawan",
         "tech": "HTML, CSS, & JavaScript",
         "image": "./assets/img/project/web portofolio.png",
         "desc":"Website portofolio sederhana dengan menggunakan HTML, CSS, dan Javascript.",
@@ -10,7 +10,7 @@
         }
     },
     {
-        "title": "Web Biografi Gajah Mada",
+        "title": "Website Artikel Biografi Gajah Mada",
         "tech": "HTML & CSS",
         "image": "./assets/img/project/web biografi gajah mada.png",
         "desc":"Ini Tugas Project Sejarah Saya.",
